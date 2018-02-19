@@ -1,21 +1,3 @@
-body {
-  width: 480px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-#a, #i {
-  background-color: grey;
-}
-
-#c {
-  background-color: #263DC4;
-}
-
-#d {
-  background-color: #4D64EB;
-}
-
 #a {
   height: 75px;
   width: 480px;
@@ -23,26 +5,9 @@ body {
 }
 
 #b {
-  background-color: #A150E2;
   height: 150px;
   width: 480px;
   line-height: 150px;
-}
-
-#e {
-  background-color: #26970E;
-}
-
-#f {
-  background-color: #42B829
-}
-
-#g {
-  background-color: #75DB5F; 
-}
-
-#h {
-  background-color: #83BF76;
 }
 
 #c-d div {
@@ -66,12 +31,6 @@ body {
 }
 
 @media only screen and (min-width: 800px) {
-  body {
-    width: 960px;
-    margin: 0 auto;
-    text-align: center;
-  }
-
   #a {
     width: 960px;
     height: 100px;
